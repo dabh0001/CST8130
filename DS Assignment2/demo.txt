@@ -1,0 +1,4 @@
+b bbb bbb 9 30 2018 2.0 bbb
+b ggg ggg 11 13 2018 0.0 ggg
+m sss sss 10 22 2018 1.0 5 5 2018
+b ttt ttt 10 29 2018 2.0 ttt
